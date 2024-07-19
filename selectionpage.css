@@ -1,0 +1,15 @@
+.con {
+    text-align: center;
+    flex-direction: row;
+
+}
+img{
+    border-radius: 25px;
+}
+.con-1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 230px;
+}

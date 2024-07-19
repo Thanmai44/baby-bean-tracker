@@ -1,0 +1,52 @@
+body{
+    background: linear-gradient(to right,pink,lightblue);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.login{
+    height: 400px;
+    width: 350px;
+    background-color: aliceblue;
+    margin: auto;
+    margin-top: 170px;
+}
+.login h1{
+    margin-top: 30px;
+    text-align: center;  
+}
+form{
+    padding: auto;
+    margin: auto;
+}
+#username{
+    display: block;
+    margin: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#password{
+    display: block;
+    margin: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+input{
+    height: 20px;
+    width: 250px;
+    border-style: outset;
+    box-shadow: 2px black;
+}
+.forget{
+    text-align: right;
+    font-size: small;
+}
+#signin{
+    text-align: center;
+}
+#btn{
+    color: black;
+    background-color: rgb(248, 110, 133);
+    height: 30px;
+    width: 100px;
+    border-radius: 50px;
+    margin-left: 130px;
+}
